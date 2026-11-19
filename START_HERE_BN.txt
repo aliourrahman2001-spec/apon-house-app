@@ -1,0 +1,14 @@
+APON HOUSE — GITHUB UPLOAD
+
+১) ZIP-টি Extract All করুন।
+২) Extract করা ফোল্ডার খুলুন।
+৩) ভেতরের সব ফাইল ও ফোল্ডার (বিশেষ করে app, gradle, .github) GitHub repository-তে upload করুন।
+৪) ZIP-টি একা upload করবেন না।
+৫) Commit changes চাপুন।
+৬) Actions tab-এ Build Apon House APK workflow খুলুন।
+৭) Build সফল হলে Artifacts থেকে AponHouse-debug-apk নামের ZIP নামান।
+৮) Artifact ZIP extract করলে app-debug.apk পাওয়া যাবে।
+
+এটি source code ZIP, APK নয়। GitHub Actions-এ build সফল হওয়ার পর APK তৈরি হবে।
+সম্পূর্ণ build নির্দেশনা: BUILD_APK_WITHOUT_ANDROID_STUDIO_BN.md
+সীমাবদ্ধতা: README_BN.md এবং PROJECT_STATUS.txt দেখুন।

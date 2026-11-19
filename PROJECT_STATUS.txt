@@ -1,0 +1,10 @@
+Firebase project ID: apon-house
+Android package: com.aponhouse.mess
+google-services.json: included at app/google-services.json
+Firebase Auth: Email/Password integration included
+Firestore: real-time listeners included
+Cloud APK build workflow: .github/workflows/build-apk.yml
+Build status: not yet run; GitHub Actions cloud build is the next step
+Artifact type: Android source project ZIP with cloud build workflow, not an APK
+Testing status: not compiled with Android SDK in this environment; first GitHub build must be checked
+Known incomplete features: monthly carry-forward, automatic fine posting, full member-wise due calculation, duty completion history, PDF/Excel export, in-app admin member approval UI
