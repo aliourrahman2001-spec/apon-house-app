@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "650490270322",
+    "project_id": "apon-house",
+    "storage_bucket": "apon-house.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650490270322:android:48da5f9d4512641468e8eb",
+        "android_client_info": {
+          "package_name": "com.aponhouse.mess"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW7fbpQEyv_ybXuAcyG41km5GW8t-w8K4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
